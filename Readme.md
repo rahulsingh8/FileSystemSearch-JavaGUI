@@ -10,3 +10,8 @@ Here is the link to download [WindowsBuilder Pro] (http://www.eclipse.org/window
 After installation, to open GUI Interface, right click on any .java file >> Open With >> WindowsBuiler Editor
 
 ## Prerequisites
+Make an **empty txt file in C:/ drive**. This will save the theme for the gui. If you want to change the path, then **edit the line number 32** in **FinalProject.java** file to your desired location.
+
+To change the location where u want to search, like if u want to search in D drive rather then C drive, the **edit the line number 307** in **FinalProject.java** file to your desired location.
+
+:thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
