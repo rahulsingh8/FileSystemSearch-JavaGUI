@@ -29,7 +29,7 @@ public class FinalProject extends JFrame {
     JMenuItem menuItem1, menuItem2, menuItem3;
     JMenu menu1;
     JRadioButtonMenuItem rbMenuItem;
-    String file = "c:\\temp\\project.txt";
+    String file = "c:\\Color.txt";
     String ex = "";
     int theme = 0;
     String read = "";
