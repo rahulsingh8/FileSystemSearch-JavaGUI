@@ -15,3 +15,6 @@ Make an **empty txt file in C:/ drive**. This will save the theme for the gui. I
 To change the location where u want to search, like if u want to search in D drive rather then C drive, the **edit the line number 307** in **FinalProject.java** file to your desired location.
 
 :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
+![](https://cloud.githubusercontent.com/assets/12661418/21534038/43c579ca-cd2f-11e6-85fc-3f184af07b7b.PNG)
+![](https://cloud.githubusercontent.com/assets/12661418/21534040/4650b394-cd2f-11e6-8635-768dfc3c319b.PNG)
